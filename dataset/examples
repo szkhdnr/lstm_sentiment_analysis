@@ -1,0 +1,5 @@
+https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
+http://help.sentiment140.com/home
+
+You SHOULD adjust process of generating teacher signals.
+(I.e. line 21 in train.py)
